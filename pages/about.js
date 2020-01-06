@@ -1,5 +1,3 @@
-// pages/about.js
-
 import Layout from "../components/MyLayout";
 
 export default function About() {
