@@ -1,43 +1,44 @@
 {
-  "devFiles": [],
+  "devFiles": [
+    "static/development/dll/dll_4b8bef20edde04f98d3f.js",
+    "static/development/dll/dll_4b8bef20edde04f98d3f.js.map"
+  ],
   "pages": {
     "/": [
-      "static/runtime/webpack-08f7b238829422e3b9b2.js",
-      "static/chunks/commons.f62a6a9bbdabe25a2117.js",
-      "static/runtime/main-ec33a97e42b746592a4a.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/_app": [
-      "static/runtime/webpack-08f7b238829422e3b9b2.js",
-      "static/chunks/commons.f62a6a9bbdabe25a2117.js",
-      "static/runtime/main-ec33a97e42b746592a4a.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/_error": [
-      "static/runtime/webpack-08f7b238829422e3b9b2.js",
-      "static/chunks/commons.f62a6a9bbdabe25a2117.js",
-      "static/runtime/main-ec33a97e42b746592a4a.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/_polyfills": [
-      "static/runtime/polyfills-a591b2980a0968e30eae.js"
-    ],
-    "/about": [
-      "static/runtime/webpack-08f7b238829422e3b9b2.js",
-      "static/chunks/commons.f62a6a9bbdabe25a2117.js",
-      "static/runtime/main-ec33a97e42b746592a4a.js"
+      "static/runtime/polyfills.js",
+      "static/runtime/polyfills.js.map"
     ],
     "/index": [
-      "static/runtime/webpack-08f7b238829422e3b9b2.js",
-      "static/chunks/commons.f62a6a9bbdabe25a2117.js",
-      "static/runtime/main-ec33a97e42b746592a4a.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
-    "/p/[id]": [
-      "static/runtime/webpack-08f7b238829422e3b9b2.js",
-      "static/chunks/commons.f62a6a9bbdabe25a2117.js",
-      "static/runtime/main-ec33a97e42b746592a4a.js"
+    "/login": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
-    "/post": [
-      "static/runtime/webpack-08f7b238829422e3b9b2.js",
-      "static/chunks/commons.f62a6a9bbdabe25a2117.js",
-      "static/runtime/main-ec33a97e42b746592a4a.js"
+    "/logout": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/myprofile": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/register": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ]
   }
 }
